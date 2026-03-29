@@ -10,12 +10,10 @@
 ### 🛠 Ferramentas e Tecnologias
 <img src="https://githubusercontent.com" alt="javascript" width="20" height="20"/> **JavaScript** 
 
-<img src="https://githubusercontent.com" alt="react" width="20" height="20"/> **React** 
-
 <img 
   src="https://githubusercontent.com" alt="python" width="20" height="20"/> **Python** 
 
-<img src="https://githubusercontent.com" alt="git" width="20" height="20"/> **Git** 
+
 
 
 ### 📫 Vamos nos conectar?
