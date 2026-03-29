@@ -8,11 +8,10 @@
 
   
 ### 🛠 Ferramentas e Tecnologias
-<img src="https://githubusercontent.com" alt="javascript" width="20" height="20"/> **JavaScript** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="javascript" width="20" height="20"/> **JavaScript** 
 
 <img 
-  src="https://githubusercontent.com" alt="python" width="20" height="20"/> **Python** 
-
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="20" height="20"/> **Python** 
 
 
 
